@@ -1,0 +1,7 @@
+{
+    "azure-iot-edge.defaultPlatform": {
+        "platform": "arm64",
+        "alias": null
+    },
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe"
+}
